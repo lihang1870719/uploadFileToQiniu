@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docq", "docq\docq.csproj", "{D62B049F-EF8A-434C-A77F-F2E566AD0E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNote", "..\..\Tools\MinNote\MinNote\MinNote.csproj", "{2DAFA61C-80D0-44E4-9C7F-0BE791DF00DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62B049F-EF8A-434C-A77F-F2E566AD0E5E}.Debug|x86.ActiveCfg = Debug|x86
+		{D62B049F-EF8A-434C-A77F-F2E566AD0E5E}.Debug|x86.Build.0 = Debug|x86
+		{D62B049F-EF8A-434C-A77F-F2E566AD0E5E}.Release|x86.ActiveCfg = Release|x86
+		{D62B049F-EF8A-434C-A77F-F2E566AD0E5E}.Release|x86.Build.0 = Release|x86
+		{2DAFA61C-80D0-44E4-9C7F-0BE791DF00DA}.Debug|x86.ActiveCfg = Debug|x86
+		{2DAFA61C-80D0-44E4-9C7F-0BE791DF00DA}.Debug|x86.Build.0 = Debug|x86
+		{2DAFA61C-80D0-44E4-9C7F-0BE791DF00DA}.Release|x86.ActiveCfg = Release|x86
+		{2DAFA61C-80D0-44E4-9C7F-0BE791DF00DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

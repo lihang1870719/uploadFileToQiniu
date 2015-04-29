@@ -1,0 +1,8 @@
+D:\vsWorkspace\docq\ThreadTest\bin\Debug\ThreadTest.exe
+D:\vsWorkspace\docq\ThreadTest\bin\Debug\ThreadTest.pdb
+D:\vsWorkspace\docq\ThreadTest\obj\x86\Debug\ThreadTest.csprojResolveAssemblyReference.cache
+D:\vsWorkspace\docq\ThreadTest\obj\x86\Debug\ThreadTest.Form1.resources
+D:\vsWorkspace\docq\ThreadTest\obj\x86\Debug\ThreadTest.Properties.Resources.resources
+D:\vsWorkspace\docq\ThreadTest\obj\x86\Debug\ThreadTest.csproj.GenerateResource.Cache
+D:\vsWorkspace\docq\ThreadTest\obj\x86\Debug\ThreadTest.exe
+D:\vsWorkspace\docq\ThreadTest\obj\x86\Debug\ThreadTest.pdb

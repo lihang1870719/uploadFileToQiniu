@@ -1,0 +1,13 @@
+D:\vsWorkspace\docq\docq\obj\x86\Debug\docq.Form1.resources
+D:\vsWorkspace\docq\docq\obj\x86\Debug\docq.Properties.Resources.resources
+D:\vsWorkspace\docq\docq\obj\x86\Debug\docq.csproj.GenerateResource.Cache
+D:\vsWorkspace\docq\docq\bin\Debug\docq.exe.config
+D:\vsWorkspace\docq\docq\bin\Debug\docq.exe
+D:\vsWorkspace\docq\docq\bin\Debug\docq.pdb
+D:\vsWorkspace\docq\docq\bin\Debug\Newtonsoft.Json.dll
+D:\vsWorkspace\docq\docq\bin\Debug\Qiniu.4.0.dll
+D:\vsWorkspace\docq\docq\bin\Debug\Newtonsoft.Json.xml
+D:\vsWorkspace\docq\docq\obj\x86\Debug\docq.exe
+D:\vsWorkspace\docq\docq\obj\x86\Debug\docq.pdb
+D:\vsWorkspace\docq\docq\obj\x86\Debug\docq.csprojResolveAssemblyReference.cache
+D:\vsWorkspace\docq\docq\bin\Debug\IrisSkin4.dll
